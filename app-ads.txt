@@ -2,6 +2,8 @@ google.com, pub-8473486243785653, DIRECT, f08c47fec0942fa0
 unity3d.com, 6084655, DIRECT, c-72d4
 inmobi.com, 237e500ec73e4eb68c183f1d1d6b1d1d, DIRECT, 83e75a7ae333ca9d
 pangleglobal.com, 5040467, DIRECT, f08c47fec0942fa0
+facebook.com, 1672059977885732, DIRECT, c3e20eee3f780d68
+facebook.com, 1521490786666861, DIRECT, c3e20eee3f780d68
 mintegral.com, 10003, RESELLER
 thunder-monetize.com, 3905806597, RESELLER
 blis.com, 33, RESELLER, 61453ae19a4b73f4
